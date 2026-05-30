@@ -40,5 +40,5 @@ El proyecto está estructurado en tres grandes fases (cortes), documentadas paso
 
 1. Clona el repositorio.
 2. Asegúrate de tener Python 3.12 y las dependencias (listadas en el entorno virtual o instalables vía `pip`).
-3. Ejecuta el notebook principal ubicado en la carpeta `parcial-3/` (o en la raíz). Se recomienda utilizar Jupyter Notebook, JupyterLab o Google Colab.
+3. Ejecuta el notebook principal ubicado en la carpeta `parcial-3/` (o en la raíz) llamado unsupervised_learning.ipynb; este contiene todos los avances de los 3 cortes. Se recomienda utilizar Jupyter Notebook, JupyterLab o Google Colab.
 4. Asegúrate de tener el dataset `diabetic_data.csv` y el archivo `IDS_mapping.csv` disponibles en las rutas indicadas en el código.
